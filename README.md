@@ -17,7 +17,7 @@ A two-agent setup using **OpenClaw** (hands) and **Hermes** (brain), both runnin
 | Reusable Hermes skill (`SKILL.md`) | ✅ Done |
 | Hermes autonomous/cron run | ✅ Done |
 | Slack app + tokens created, plugin installed | ✅ Done |
-| Slack round-trip loop (post goal → plan → code → report) | ✅ Done |
+| Slack round-trip loop (post goal → plan → code → report) |⏳partial-would be completed in a while|
 | Kanban app (Laravel + React) | ❌ Not started |
 | Live URL | ⬜ Not deployed (see note below) |
 | Video walkthrough | ✅ Done |
